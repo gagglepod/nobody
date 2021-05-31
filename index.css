@@ -37,17 +37,18 @@ body {
 }
 
 .btn {
-  /* color: #fff; */
-  background: lightgray;
+  display: inline-block;
+  align-items: center;
+  background-color: lightgray;
   border-radius: 50%;
   border: 1px solid #000;
   cursor: pointer;
+
   filter: invert(1);
-  padding: 1em;
   height: 48px;
-  width: 48px;
-  justify-items: center;
-  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  padding: 0.825em;
 }
 
 .btn:hover,
@@ -98,5 +99,5 @@ li:first-child {
 }
 
 li {
-  padding-right: 2em;
+  padding-right: 1.5em;
 }
