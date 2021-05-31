@@ -1,0 +1,29 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.card_container {
+  /* something */
+}
+
+.hero-img {
+  max-width: 100%;
+}
+
+.movie_info {
+  /* something */
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.btn_container {
+  /* something */
+}
+
+.movie_tags {
+  /* something */
+}
